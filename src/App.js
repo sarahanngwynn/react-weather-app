@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather />
+        <Weather defaultCity="New York" />
         <footer>
           This project is created by Sarah Gwynn and is{" "}
           <a href="https://fervent-benz-a17bf6.netlify.app">
