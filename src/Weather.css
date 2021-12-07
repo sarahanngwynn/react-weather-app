@@ -47,3 +47,6 @@
   line-height: 1;
   top: -34px;
 }
+a {
+  text-decoration: none;
+}
