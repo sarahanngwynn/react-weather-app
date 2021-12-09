@@ -9,7 +9,11 @@ export default function App() {
         <Weather defaultCity="New York" />
         <footer>
           This project is created by Sarah Gwynn and is{" "}
-          <a href="https://fervent-benz-a17bf6.netlify.app">
+          <a
+            href="https://github.com/sarahanngwynn/react-weather-app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             open-sourced on GitHub
           </a>
         </footer>
